@@ -13,6 +13,8 @@ SAP BTP and Microsoft Azure with a view to continue to assist clients to transit
 ## 📫 How to reach me: ...
 I'd love to hear from you about ideas and opportunities in this space.  You can reach on me twitter [@katansapdevelop](https://twitter.com/KatanSAPDevelop) or via [LinkedIn](https://www.linkedin.com/in/katanpatel/)
 
+![Katan's github stats](https://github-readme-stats.vercel.app/api?username=katansapdevelop&show_icons=true)
+
 <!--
 **katansapdevelop/katansapdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
