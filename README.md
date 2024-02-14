@@ -2,7 +2,7 @@
 ## Hi there 👋
 Welcome to my github profile, I'm a software developer/engineeer/architect & I'm also director of Logical Star Consulting Pty Ltd, a niche consulting company focused on helping customers in their migration to the cloud.
 
-My work is split across SAP based developments, Web3 (specifically [RadixDLT](https://www.radixdlt.com/)), Web Development in Angular/React and dabbling in Azure 
+My work is split across SAP based developments, Web3 ([RadixDLT](https://www.radixdlt.com/)), Web Development in Angular/React and dabbling in Azure 
 
 ## 🔭 I’m currently working on 
 - [sitbne](https://sitbne.github.io/)
