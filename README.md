@@ -2,7 +2,7 @@
 ## Hi there 👋
 Welcome to my github profile, I'm a software developer/engineeer/architect & I'm also director of Logical Star Consulting Pty Ltd, a niche consulting company focused on helping customers in their migration to the cloud.
 
-My work is primarily focused on SAP based developments (SAP BTP and S/4 HANA Cloud), Web3 ([RadixDLT](https://www.radixdlt.com/)) and dabbling in Azure 
+My work is primarily focused on SAP based developments (SAP BTP, Integration Suite, CAP Node.js, Build Process Automation, SAPUI5).
 
 ## 🔭 I’m currently working on 
 - [sitbne](https://sitbne.github.io/)
@@ -13,7 +13,7 @@ My work is primarily focused on SAP based developments (SAP BTP and S/4 HANA Clo
 SAP BTP and Microsoft Azure with a view to continue to assist clients to transition across from their existing on-premise solutions to take advance where appropriate of cloud based solutions
 
 ## 📫 How to reach me: ...
-I'd love to hear from you about ideas and opportunities in this space.  You can reach on me twitter [@katansapdevelop](https://twitter.com/KatanSAPDevelop) or via [LinkedIn](https://www.linkedin.com/in/katanpatel/)
+I'd love to hear from you about ideas and opportunities in this space.  You can reach on me BlueSky [@katan-patel.bsky.social](https://bsky.app/profile/katan-patel.bsky.social) or via [LinkedIn](https://www.linkedin.com/in/katanpatel/)
 
 
 
